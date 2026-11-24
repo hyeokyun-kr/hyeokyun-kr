@@ -14,6 +14,7 @@ Data Scientist at CEDA (Center for Economics and Data Analytics), Bae, Kim & Lee
 ### Building
 
 - **[KR Public Data Hub](https://github.com/hyeokyun-kr/kr-public-data-hub)** — Local app that puts Korean public economic data (KOSIS, ECOS, OpenDART, KFTC business groups, data.go.kr) behind one search, with previews and downloads that record where every number came from. About 124,000 values checked against the source APIs, 0 mismatches.
+- **[Gongmun Writer](https://github.com/hyeokyun-kr/gongmun-writer)** — Offline browser app that reads a Korean regulator's letter (PDF, HWP, HWPX, Word) and drafts the law firm's reply in its Word template. Parses Hangul files in the browser with its own decoder; no server. [Demo](https://hyeokyun-kr.github.io/gongmun-writer/dist/gongmun-writer.html) with fictitious data.
 - **[29M](https://github.com/hyeokyun-kr/HY_29M)** — In-car app (Pleos Connect, Android) that warns at night when stopping distance at the current speed exceeds how far the low beams let you see a pedestrian (29 m). Entry to Hyundai Motor Group's in-vehicle app contest, 2026.
 - **[LightQ](https://ed-yun.notion.site/LightQ-d8e5f7705c83420b89978e762ae4d39a)** — Remote-assistance app with real-time video drawing. Founded WGLG and took it from 100 customer interviews to launch on Android and iOS. Patent application KR 10-2022-0132253.
 
